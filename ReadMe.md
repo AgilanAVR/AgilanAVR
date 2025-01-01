@@ -1,5 +1,5 @@
 # 💫 About Me:
-web3 | Blockchain | full stack<br>Innovating at the intersection of Web2 and Web3 technologies
+Engineering Student <br> web3 | Blockchain | full stack<br>Innovating at the intersection of Web2 and Web3 technologies
 
 
 ## 🌐 Socials:
