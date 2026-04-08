@@ -10,17 +10,17 @@ Focused on identifying vulnerabilities in DeFi systems through adversarial analy
 
 ## Focus
 
-Security Research  
-Protocol-level vulnerability discovery and exploit development across DeFi systems.
+Security  
+Analyzing smart contract vulnerabilities across reentrancy, access control, upgradeability, and oracle manipulation.
 
-DeFi Systems  
-AMMs, lending markets, liquidation engines, and oracle design.
+DeFi  
+Working with AMM invariants, lending protocols, liquidation flows, and interest rate models.
 
-EVM Internals  
-Storage, delegatecall, gas behavior, and upgradeable architectures.
+EVM  
+Understanding storage layout, delegatecall behavior, gas model, and proxy architectures.
 
 Testing  
-Exploit-driven testing with Foundry (fuzzing, invariants, fork-based simulation).
+Applying Foundry for fuzzing, invariant testing, and exploit simulation.
 
 
 ---
