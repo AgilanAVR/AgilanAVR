@@ -1,18 +1,94 @@
+# 🚀 Agilan AVR | Web3 Engineer ⚡ Smart Contract Security Learner
+
+> Building secure, scalable, and decentralized systems  
+> Thinking like an attacker. Shipping like a builder.
+
+---
+
 # 💫 About Me:
-Engineering Student <br> web3 | Blockchain | full stack<br>Innovating at the intersection of Web2 and Web3 technologies
+🎓 Engineering Student → Transitioning into **Web3 Engineer & Smart Contract Auditor**  
+🔗 Strong focus on **DeFi Protocols, Security & Low-level EVM Concepts**  
+⚡ Building real-world dApps + learning through **Code4rena / Sherlock-style auditing**  
+🧠 Deep diving into:
+- Protocol-level attacks
+- DeFi mechanics (Aave, AMMs, Liquidations)
+- EVM internals & gas optimizations  
 
+💡 Vision:
+> To become a **top-tier smart contract auditor** and build **trustless systems that scale globally**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agilan-avr-2a9150309/) 
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 🧠 Current Focus:
+- 🔍 Smart Contract Auditing (Manual + Competitive)
+- ⚙️ EVM Deep Dive (Storage, Gas, Opcodes, Assembly)
+- 💸 DeFi Math (Health Factor, TWAP, Interest Models)
+- 🧪 Foundry Testing & Fuzzing
+- 🏗️ Building secure ERC20 / NFT / Marketplace systems
+
+---
+
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agilan-avr-2a9150309/)  
+
+---
+
+# 🛠️ Tech Stack:
+
+### 🔗 Blockchain & Web3
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge)
+![Hardhat](https://img.shields.io/badge/Hardhat-FCC624?style=for-the-badge)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge)
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
+### ⚙️ Backend & Systems
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+### 🔐 Security & Concepts
+- Reentrancy / Flashloan Attacks  
+- Oracle Manipulation & TWAP  
+- Signature Replay / EIP-712  
+- Liquidation Math & Health Factor  
+- Gas Optimization & Storage Layout  
+
+---
+
+# 🧩 Projects & Work:
+🚀 **Coin-Game (Web3 Marketplace + Token System)**
+- ERC20 token economy with mint/buy/sell
+- Marketplace with fees & royalties
+- Lazy minting system
+
+🛡️ **Smart Contract Security Practice**
+- Real vulnerability findings (portfolio)
+- Competitive audit-style reports
+- Attack simulations (flashloan, griefing, etc.)
+
+📦 **Decentralized Food Verification System**
+- IPFS + Blockchain integration
+- DAO-based validation system
+- Anti-tampering supply chain concept
+
+---
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AgilanAVR&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AgilanAVR&theme=tokyonight&hide_border=false&include_all_commits=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AgilanAVR&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AgilanAVR&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AgilanAVR&theme=tokyonight&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AgilanAVR&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🧠 Auditor Mindset:
+```diff
++ Think in attack surfaces
++ Assume worst-case scenarios
++ Trace state changes deeply
+- Never trust external calls
+- Never trust user input
